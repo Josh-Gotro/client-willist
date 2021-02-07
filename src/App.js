@@ -9,7 +9,7 @@ function App() {
 
 
   document.addEventListener('keydown', (e) => {
-    console.log(e.key)
+    console.log(e.key, letters)
     setLetters(p => [...p, e])
   });
 
