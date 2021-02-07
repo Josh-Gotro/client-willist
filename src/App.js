@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Title from './Title.js'
 import LetterBank from './LetterBank.js'
