@@ -5,7 +5,7 @@ import LetterBank from './LetterBank.js'
 
 
 function App() {
-  const [letters, setLetters] = useState([]);
+  // const [letters, setLetters] = useState([]);
 
   document.addEventListener(
     "keydown", 
